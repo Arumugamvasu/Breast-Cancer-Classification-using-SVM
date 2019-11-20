@@ -33,7 +33,7 @@ confusion_mat =  [[  0  63]
 
 
 # Then Use Grid Search CV Algorithm and got a high accuracy values.
- # this support vector classifier (SVC) is using the radial basis function kernel (RBF).
+ this support vector classifier (SVC) is using the radial basis function kernel (RBF).
  
   Accuracy = 0.9649122807017544
   
@@ -50,9 +50,9 @@ confusion_mat =  [[  0  63]
                     weighted avg       0.97      0.96      0.96       171
 
 
-# Finally got the good accuracy values.
-# Error function Graph
-# Thanks for Reading 
+Finally got the good accuracy values.
+Error function Graph
+Thanks for Reading 
 
 
 
